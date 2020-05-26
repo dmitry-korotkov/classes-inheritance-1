@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/3eu6lngyn2ius7si?svg=true)](https://ci.appveyor.com/project/dmitry-korotkov/classes-inheritance-1)
